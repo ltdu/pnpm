@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/pnpm/pnpm/blob/master/packages/plugin-commands-env#readme",
   "dependencies": {
-    "@pnpm/cli-utils": "workspace:0.6.17",
+    "@pnpm/cli-utils": "workspace:0.6.18-0",
     "@pnpm/config": "workspace:12.4.7",
     "@pnpm/error": "workspace:2.0.0",
     "@pnpm/fetch": "workspace:4.0.2",

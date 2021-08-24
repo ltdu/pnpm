@@ -44,7 +44,7 @@
     "strip-ansi": "^6.0.0"
   },
   "dependencies": {
-    "@pnpm/cli-utils": "workspace:0.6.17",
+    "@pnpm/cli-utils": "workspace:0.6.18-0",
     "@pnpm/colorize-semver-diff": "^1.0.1",
     "@pnpm/command": "workspace:2.0.0",
     "@pnpm/common-cli-options-help": "workspace:0.6.0",

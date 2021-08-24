@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@pnpm/audit": "workspace:2.1.7",
-    "@pnpm/cli-utils": "workspace:0.6.17",
+    "@pnpm/cli-utils": "workspace:0.6.18-0",
     "@pnpm/config": "workspace:12.4.7",
     "@pnpm/constants": "workspace:5.0.0",
     "@pnpm/error": "workspace:2.0.0",

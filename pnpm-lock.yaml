@@ -686,7 +686,7 @@ importers:
 
   packages/find-workspace-packages:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/constants': workspace:5.0.0
       '@pnpm/find-workspace-packages': 'link:'
       '@pnpm/types': workspace:7.4.0
@@ -1733,7 +1733,7 @@ importers:
   packages/plugin-commands-audit:
     specifiers:
       '@pnpm/audit': workspace:2.1.7
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/config': workspace:12.4.7
       '@pnpm/constants': workspace:5.0.0
       '@pnpm/error': workspace:2.0.0
@@ -1777,7 +1777,7 @@ importers:
 
   packages/plugin-commands-env:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/config': workspace:12.4.7
       '@pnpm/error': workspace:2.0.0
       '@pnpm/fetch': workspace:4.0.2
@@ -1825,7 +1825,7 @@ importers:
   packages/plugin-commands-import:
     specifiers:
       '@pnpm/assert-project': workspace:*
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/constants': workspace:5.0.0
       '@pnpm/error': workspace:2.0.0
       '@pnpm/graceful-fs': workspace:1.0.0
@@ -1868,7 +1868,7 @@ importers:
   packages/plugin-commands-installation:
     specifiers:
       '@pnpm/assert-project': workspace:*
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/colorize-semver-diff': ^1.0.1
       '@pnpm/command': workspace:2.0.0
       '@pnpm/common-cli-options-help': workspace:0.6.0
@@ -1990,7 +1990,7 @@ importers:
 
   packages/plugin-commands-listing:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/common-cli-options-help': workspace:0.6.0
       '@pnpm/config': workspace:12.4.7
       '@pnpm/constants': workspace:5.0.0
@@ -2031,7 +2031,7 @@ importers:
 
   packages/plugin-commands-outdated:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/colorize-semver-diff': ^1.0.1
       '@pnpm/command': workspace:2.0.0
       '@pnpm/common-cli-options-help': workspace:0.6.0
@@ -2096,7 +2096,7 @@ importers:
 
   packages/plugin-commands-publishing:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/client': workspace:5.0.3
       '@pnpm/config': workspace:12.4.7
       '@pnpm/error': workspace:2.0.0
@@ -2183,7 +2183,7 @@ importers:
 
   packages/plugin-commands-rebuild:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/common-cli-options-help': workspace:0.6.0
       '@pnpm/config': workspace:12.4.7
       '@pnpm/constants': workspace:5.0.0
@@ -2270,7 +2270,7 @@ importers:
 
   packages/plugin-commands-script-runners:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/command': workspace:2.0.0
       '@pnpm/common-cli-options-help': workspace:0.6.0
       '@pnpm/config': workspace:12.4.7
@@ -2326,7 +2326,7 @@ importers:
   packages/plugin-commands-server:
     specifiers:
       '@pnpm/cli-meta': workspace:2.0.0
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/common-cli-options-help': workspace:0.6.0
       '@pnpm/config': workspace:12.4.7
       '@pnpm/error': workspace:2.0.0
@@ -2374,7 +2374,7 @@ importers:
 
   packages/plugin-commands-setup:
     specifiers:
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/logger': ^4.0.0
       '@pnpm/plugin-commands-setup': 'link:'
       '@pnpm/prepare': workspace:0.0.26
@@ -2391,7 +2391,7 @@ importers:
     specifiers:
       '@pnpm/assert-store': workspace:*
       '@pnpm/cafs': workspace:3.0.7
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/config': workspace:12.4.7
       '@pnpm/error': workspace:2.0.0
       '@pnpm/get-context': workspace:5.1.5
@@ -2466,7 +2466,7 @@ importers:
     specifiers:
       '@pnpm/assert-project': workspace:*
       '@pnpm/cli-meta': workspace:2.0.0
-      '@pnpm/cli-utils': workspace:0.6.17
+      '@pnpm/cli-utils': workspace:0.6.18-0
       '@pnpm/client': workspace:5.0.3
       '@pnpm/command': workspace:2.0.0
       '@pnpm/common-cli-options-help': workspace:0.6.0

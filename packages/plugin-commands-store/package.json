@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@pnpm/cafs": "workspace:3.0.7",
-    "@pnpm/cli-utils": "workspace:0.6.17",
+    "@pnpm/cli-utils": "workspace:0.6.18-0",
     "@pnpm/config": "workspace:12.4.7",
     "@pnpm/error": "workspace:2.0.0",
     "@pnpm/get-context": "workspace:5.1.5",
