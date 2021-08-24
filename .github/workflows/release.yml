@@ -32,7 +32,7 @@ jobs:
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          pnpm config set "//registry.npmjs.org/:_authToken" "${NPM_TOKEN}"
+          pnpm config set "//registry.npmjs.org/:_authToken" "\${NPM_TOKEN}"
           pnpm release
       - name: Copy Artifacts
         run: pnpm run copy-artifacts
